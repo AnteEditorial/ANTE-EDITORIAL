@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'Florania';
+    src: url('../fonts/Florania-Trial.ttf') format('truetype');
+}
+
+body {
+    font-family: 'Florania', sans-serif;
+    padding-top: 278px;
+
+}
+
+@media (max-width: 991px) {
+    body{
+        padding-top: 200px;
+    }
+
+    
+}
